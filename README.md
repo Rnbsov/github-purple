@@ -1,13 +1,7 @@
 # README
-## This is the README for your extension "purple-github"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Github Purple
+A theme as accurate to Github's dark theme as possible, but with some extra purple accents.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Please do whatever you want with this extension: customize the accents, fork this repository, whatever your heart desires!
 
 **Enjoy!**
