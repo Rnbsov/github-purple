@@ -1,0 +1,21 @@
+{
+    "name": "purple-github",
+    "displayName": "Purple Github",
+    "description": "A theme as accurate to the dark GitHub as possible, but with some extra purple accents.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Purple Github",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purple Github-color-theme.json"
+            }
+        ]
+    }
+}
