@@ -12,11 +12,11 @@
             {
                 "label": "Github Pruple",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Github Purple-color-theme.json"
+                "path": "./themes/Purple Github-color-theme.json"
             }
         ]
     },
-    "icon": "/icon.png",
+    "icon": "icon.png",
     "galleryBanner": {
         "color": "#0d1117",
         "theme": "dark"

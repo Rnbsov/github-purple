@@ -9,5 +9,6 @@ A theme as accurate to Github's dark theme as possible, but with some extra purp
 
 Please do whatever you want with this extension: customize the accents, fork this repository, whatever your heart desires!
 
-- All credits to the original [Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) develepors
+- All credits to the original [Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) developers
+
 **Enjoy!**
