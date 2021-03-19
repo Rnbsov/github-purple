@@ -2,7 +2,7 @@
     "name": "github-purple",
     "displayName": "Github Purple",
     "description": "A theme as accurate to the dark GitHub as possible, but with some extra purple accents.",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "engines": {
         "vscode": "^1.54.0"
     },
