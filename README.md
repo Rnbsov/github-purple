@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/4a454646/github-purple/master/main.png"/>
 </p>
 
-A theme as accurate to Github's dark theme as possible, but with some extra purple accents.
+A theme as accurate to Github's dark theme as possible, but with purple accents!
 
 Please do whatever you want with this extension: customize the accents, fork this repository, whatever your heart desires!
 
