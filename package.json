@@ -6,9 +6,7 @@
     "engines": {
         "vscode": "^1.54.0"
     },
-    "categories": [
-        "Themes"
-    ],
+    "categories": [ "Themes" ],
     "contributes": {
         "themes": [
             {
@@ -17,5 +15,17 @@
                 "path": "./themes/Github Purple-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "/icon.png",
+    "galleryBanner": {
+        "color": "#0d1117",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/4a454646/github-purple"
+    },
+    "homepage": "https://github.com/4a454646/github-purple",
+    "publisher": "4a454646",
+    "keywords": [ "github", "dark", "purple" ]
 }
