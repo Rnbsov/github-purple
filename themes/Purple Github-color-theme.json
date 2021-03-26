@@ -2,6 +2,7 @@
 	"name": "Github Purple",
 	"type": "dark",
 	"colors": {
+		// super duper bright: #b29be0
 		// brightest accent: #8457e0
 		// slightly darker: #6940c5
 		// mid: #391e6e
@@ -115,7 +116,7 @@
 		"panel.border": "#1b1f23",
 		"panelInput.border": "#2f363d",
 
-		"panelTitle.activeBorder": "#00FF00",
+		"panelTitle.activeBorder": "#8457e0",
 
 		"panelTitle.activeForeground": "#e1e4e8",
 		"panelTitle.inactiveForeground": "#959da5",
