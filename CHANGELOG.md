@@ -1,5 +1,9 @@
 # Changelog for Github Purple Refined
 
+## 1.2.1 - 30.09.2023
+
+- ✨ Readme fix
+
 ## 1.2.0 - 30.09.2023
 
 - ✨ Create README.md
