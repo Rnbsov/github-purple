@@ -12,9 +12,6 @@ A theme as accurate to Github's dark theme as possible, but with purple accents!
 - Open the Command Palette with `Ctrl+Shift+P` or `⇧⌘P`
 - Select Preferences: Color Theme and choose `Github Purple Refined`.
 
-- All credits to the original theme that I forked from [Github Purple](https://marketplace.visualstudio.com/items?itemName=4a454646.github-purple) developer.
-
-- All credits to the original [Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) developers
-
+All credits to the original theme that I forked from [Github Purple](https://marketplace.visualstudio.com/items?itemName=4a454646.github-purple) developer.
 
 > 💜 With Love by Rnbsov 👾
