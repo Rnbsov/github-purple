@@ -2,13 +2,13 @@
   "name": "github-purple-refined",
   "displayName": "Github Purple Refined",
   "description": "💜 A theme as accurate to Github's dark theme as possible, but with purple accents! 💜",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "publisher": "rnbsov",
   "repository": {
     "type": "git",
-    "url": "https://github.com/4a454646/github-purple"
+    "url": "https://github.com/Rnbsov/github-purple"
   },
-  "homepage": "https://github.com/4a454646/github-purple",
+  "homepage": "https://github.com/Rnbsov/github-purple",
   "engines": {
     "vscode": "^1.54.0"
   },
