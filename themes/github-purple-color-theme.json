@@ -164,7 +164,6 @@
 		"tab.unfocusedActiveBorder": "#24292e",
 		"tab.unfocusedActiveBorderTop": "#1b1f23",
 		"tab.unfocusedHoverBackground": "#24292e",
-		"terminal.foreground": "#d1d5da",
 		"textBlockQuote.background": "#24292e",
 		"textBlockQuote.border": "#444d56",
 		"textCodeBlock.background": "#2f363d",
@@ -178,6 +177,24 @@
 		"titleBar.inactiveBackground": "#161b22",
 		"titleBar.inactiveForeground": "#959da5",
 		"tree.indentGuidesStroke": "#2f363d",
+
+		// Terminal colors
+		"terminal.foreground": "#d1d5da",
+		"terminal.ansiBlue": "#AA93DD",
+		"terminal.ansiBrightBlue": "#AFCBFF",
+		"terminal.ansiBrightCyan": "#AFCBFF",
+		"terminal.ansiBrightGreen": "#AFCBFF",
+		"terminal.ansiBrightMagenta": "#DF8598",
+		"terminal.ansiBrightRed": "#DF8598",
+		"terminal.ansiBrightYellow": "#AA93DD",
+		"terminal.ansiCyan": "#AFCBFF",
+		"terminal.ansiGreen": "#AFCBFF",
+		"terminal.ansiMagenta": "#DF8598",
+		"terminal.ansiRed": "#DF8598",
+		"terminal.ansiYellow": "#AA93DD",
+		// "terminal.selectionBackground": "#6C6F934D",
+		"terminalCursor.background": "#d1d5da",
+		"terminalCursor.foreground": "#AA93DD",
 	},
 	"tokenColors": [
 		{
