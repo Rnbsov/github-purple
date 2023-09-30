@@ -1,14 +1,20 @@
-# README
-## Github Purple
+# 👾 Github Purple Refined
 
-<p style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/4a454646/github-purple/master/main.png"/>
-</p>
+![theme_showcase](assets/theme_showcase.png)
 
 A theme as accurate to Github's dark theme as possible, but with purple accents!
 
-Please do whatever you want with this extension: customize the accents, fork this repository, whatever your heart desires!
+## 🚀 Installation
+
+- Open the Extensions sidebar in VS Code
+- Search for `Github Purple Refined`
+- Click Install
+- Open the Command Palette with `Ctrl+Shift+P` or `⇧⌘P`
+- Select Preferences: Color Theme and choose `Github Purple Refined`.
+
+- All credits to the original theme that I forked from [Github Purple](https://marketplace.visualstudio.com/items?itemName=4a454646.github-purple) developer.
 
 - All credits to the original [Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) developers
 
-**Enjoy!**
+
+> 💜 With Love by Rnbsov 👾

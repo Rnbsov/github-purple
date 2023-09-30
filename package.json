@@ -2,7 +2,7 @@
   "name": "github-purple-refined",
   "displayName": "Github Purple Refined",
   "description": "💜 A theme as accurate to Github's dark theme as possible, but with purple accents! 💜",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "rnbsov",
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
       }
     ]
   },
-  "icon": "icon.png",
+  "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#0d1117",
     "theme": "dark"
