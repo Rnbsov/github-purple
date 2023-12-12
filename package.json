@@ -15,6 +15,9 @@
   "categories": [
     "Themes"
   ],
+  "extensionPack": [
+    "rnbsov.fluorite-theme"
+  ],
   "contributes": {
     "themes": [
       {
